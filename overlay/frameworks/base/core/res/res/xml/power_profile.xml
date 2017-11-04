@@ -124,4 +124,8 @@
         <value>7.682</value>
         <value>61.488</value>
     </array>
+<<<<<<< HEAD
 </device>
+=======
+</device>
+>>>>>>> 0eb4bd6... overlay: Import power_profile.xml from ZUI 2.5.412
